@@ -10,8 +10,8 @@
 - 🌱 Focused on Frontend Development and Full Stack Fundamentals
 - 💡 Skilled in HTML, CSS, JavaScript, React, Node.js, Express
 - 🔧 Familiar with Git and GitHub
-- 📫 Contact: mesudwubetu@example.com  
-  *(change to your real email)*
+- 📫 Contact: wubetumasud@example.com  
+  
 
 ---
 
