@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Mesud Wubetu</h1>
+<h1 align="center">Hi 👋, I'm Masud Wubetu</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer;Full+Stack+Learner;UI%2FUX+Enthusiast" alt="Typing SVG" />
 </p>
