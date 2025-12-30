@@ -39,17 +39,23 @@
 
 ## 🚀 Featured Projects
 
-### ⭐ **1. Weather App (HTML, CSS, JavaScript)**
+### ⭐ Weather App (HTML, CSS, JavaScript)
 - A live weather checking application using API.
 - Clean UI, responsive, and real-time weather data.
 
-### ⭐ **2. Digital Clock (HTML, CSS, JavaScript)**
+### ⭐ Digital Clock (HTML, CSS, JavaScript)
 - A fully responsive digital clock.
 - Displays current time with stylish UI and animations.
 
-### ⭐ **3. To-Do List App (React)**
+### ⭐ To-Do List App (React)
 - Add, remove, and manage tasks easily.
 - React state management and clean component structure.
+
+### ⭐ Amazon Clone (React)
+- Full-stack e-commerce clone built with React, Firebase, and Stripe.
+- Responsive UI, shopping cart, and payment integration.
+- **Live Demo:** [View Live Site](amazon-clone-4m46.vercel.app)
+- [GitHub Repository](https://github.com/Masud-Wubetu/Amazon-Clone)
 
 ---
 
