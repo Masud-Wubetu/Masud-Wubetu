@@ -95,3 +95,4 @@
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:3B82F6&height=120&section=footer" />
+
