@@ -14,7 +14,7 @@
 # 👨‍💻 About Me
 
 - 💻 Full Stack Developer  
-- ⚛️ Experienced with **React, Next.js**
+- ⚛️ Experienced with **Javascript,React, Next.js**
 - 🧠 Backend development using **Node.js, NestJS, Express**
 - 🎨 Passionate about **modern UI, performance, and scalability**
 - ☁️ Familiar with **Docker, Cloudinary, Git workflows**
