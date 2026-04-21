@@ -69,8 +69,6 @@ A modern restaurant website with responsive UI and interactive design.
 - JavaScript
 - Tailwind CSS
 
----
-
 ## 💳 PayNova – Payment Gateway
 A payment integration platform for handling checkout and payment workflows.
 
