@@ -1,172 +1,98 @@
+<div align="center">
 
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=220&section=header&text=Masud%20Wubetu&fontSize=50&fontColor=ffffff" />
+# 👨‍💻 Masud Wubetu
 
-<h2 align="center">🚀 Full Stack Developer | React • Node.js • Next.js • NestJS</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masud-wubetu-15ab93363/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Wubetumasud@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hanu31)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](portfolio2-steel-xi.vercel.app)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%2B+Next.js+Developer;Node.js+%2F+NestJS+Backend;Building+Modern+Web+Applications;Always+Learning+New+Technologies!" />
-</p>
-
----
-
-
-# 👨‍💻 About Me
-
-- 💻 Full Stack Developer  
-- ⚛️ Experienced with **Javascript,React, Next.js**
-- 🧠 Backend development using **Node.js, NestJS, Express**
-- 🎨 Passionate about **modern UI, performance, and scalability**
-- ☁️ Familiar with **Docker, Cloudinary, Git workflows**
-
-📫 Email: **wubetumasud@gmail.com**
+</div>
 
 ---
 
-# 💻 Tech Stack
+## 🚀 About Me
 
-### 🌐 Core Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind" height="50"/>
-</p>
+I’m a Full-Stack Software Engineer with a growing focus on AI, currently studying Software Engineering at Addis Ababa University. Over time, I’ve had the opportunity to build and ship real-world applications—from food delivery platforms to digital marketplaces and healthcare systems—serving thousands of users.
 
-### ⚛️ Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs" height="50"/>
-</p>
+I enjoy working across the stack, turning ideas into reliable and user-friendly products. My experience includes designing scalable architectures, building microservices, and implementing real-time features that enhance performance and user engagement.
 
-### 🧠 Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" height="50"/>
-</p>
+More recently, I’ve been exploring the intersection of software engineering and artificial intelligence, working with modern AI/ML tools and cloud technologies to create smarter, more automated solutions.
 
-### ☁️ DevOps & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" height="50"/>
-</p>
+I’m driven by continuous learning, meaningful challenges, and the goal of building systems that deliver real value.
 
-### 🗂 Services
-<p>
-<img src="https://skillicons.dev/icons?i=cloudinary" height="50"/>
-</p>
+
+> 
 
 ---
 
-# 🚀 Featured Projects
+## 🔭 What I Do
 
-## 🍽 Restaurant Website
-A modern restaurant website with responsive UI and interactive design.
-
-**Features**
-- Menu browsing
-- Responsive design
-- Modern UI with Tailwind CSS
-- Fast and optimized frontend
-
-**Tech Stack**
-- HTML
-- CSS
-- JavaScript
-- Tailwind CSS
-
-## 💳 PayNova – Payment Gateway
-A payment integration platform for handling checkout and payment workflows.
-
-**Features**
-- Secure checkout system
-- Product management
-- Payment integration
-- Backend API architecture
-
-**Tech Stack**
-- Node.js
-- Express
-- React
-- Payment API integration
+| Area | Description |
+|------|-------------|
+| 🌐 **Full-Stack Development** | Building end-to-end web applications with modern frameworks |
+| 🤖 **AI/ML Engineering** | Developing intelligent systems and machine learning solutions |
+| ☁️ **Cloud Computing** | Deploying and managing applications in cloud environments |
+| 📱 **Mobile Development** | Creating cross-platform mobile applications |
 
 ---
 
-## 🎵 Melodify – Music Streaming Platform
-A full stack music platform where users can browse and stream songs.
+## 📚 Currently Learning
 
-**Features**
-- Music browsing and streaming
-- Album and artist organization
-- Backend API for song management
-- Responsive frontend UI
-
-**Tech Stack**
-- React
-- Node.js
-- Express
-- MongoDB
+- ☁️ Advanced Cloud Computing and AWS
+- 🧠 Deep Learning fundamentals and applications
+- 🔁 Recurrent Neural Networks (RNNs)
+- 🖼️ Convolutional Neural Networks (CNNs)
+- 🤖 Agentic AI and autonomous systems
 
 ---
 
-## 🛒 Amazon Clone
-A full-stack e-commerce application.
+## 🛠️ Tech Stack
 
-**Features**
-- Authentication
-- Shopping cart
-- Stripe payment integration
-- Responsive UI
+### Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Tech Stack**
-- React
-- Firebase
-- Stripe
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-Live Demo  
-https://amazon-clone-4m46.vercel.app
+### Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-Repository  
-https://github.com/Masud-Wubetu/Amazon-Clone
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Masud-Wubetu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://streak-stats.demolab.com?user=Masud-Wubetu&theme=tokyonight&hide_border=true" height="180"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masud-Wubetu&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-
-</p>
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ---
 
-# 🐍 Contribution Snake
+## 📊 GitHub Statistics
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Masud-Wubetu/Masud-Wubetu/output/snake.svg" />
-</p>
+## 📊 GitHub Statistics
 
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Masud-Wubetu">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:wubetumasud@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Masud-Wubetu&theme=tokyo-night&hide_border=true&area=true" />
+</div>
 
 ---
+*"The best way to predict the future is to invent it."* — Alan Kay
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:3B82F6&height=120&section=footer" />
+<div align="center">
+
+
+</div>
+
+why is the github stat show mw link in the preview mode i want the graph
