@@ -81,8 +81,6 @@ I’m driven by continuous learning, meaningful challenges, and the goal of buil
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Masud-Wubetu&theme=tokyo-night&hide_border=true&area=true" />
 </div>
