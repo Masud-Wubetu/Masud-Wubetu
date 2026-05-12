@@ -92,5 +92,3 @@ I’m driven by continuous learning, meaningful challenges, and the goal of buil
 
 
 </div>
-
-why is the github stat show mw link in the preview mode i want the graph
