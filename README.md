@@ -82,9 +82,9 @@ I’m driven by continuous learning, meaningful challenges, and the goal of buil
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Masud-Wubetu&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Masud-Wubetu&show_icons=true&theme=tokyo-night&hide_border=true" alt="Masud's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masud-Wubetu&layout=compact&theme=tokyo-night&hide_border=true" alt="Top Languages" />
 </div>
-
 ---
 *"The best way to predict the future is to invent it."* — Alan Kay
 
