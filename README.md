@@ -82,10 +82,25 @@ I’m driven by continuous learning, meaningful challenges, and the goal of buil
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Masud-Wubetu&show_icons=true&theme=tokyo-night&hide_border=true" alt="Masud's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masud-Wubetu&layout=compact&theme=tokyo-night&hide_border=true" alt="Top Languages" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Masud's GitHub Stats" width="48%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Used Languages" width="48%" />
 </div>
+
+<div align="center">
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" width="48%" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Masud-Wubetu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Masud-Wubetu&theme=tokyo-night&hide_border=true&bg_color=1a1b27" alt="Contribution Graph" width="100%" />
+</div>
+
 ---
+
 *"The best way to predict the future is to invent it."* — Alan Kay
 
 <div align="center">
